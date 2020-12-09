@@ -4,8 +4,6 @@ World of English is an educational game that was made to help students study Eng
 
 :grey_exclamation: The game is available **only for Windows**.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RRO0EtIS4dA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## How to play:
 
 1) Download the game from [here](https://aleksandr-molchagin.itch.io/world-of-english), and extract the archive in one folder.
