@@ -38,8 +38,8 @@ You may explore and modify the project, but do not publish your version of the g
 - Blender
 - Audacity
 
-## Authors:
+## Author:
 - Aleksandr Molchagin
 
-## License
+## License:
 Some game assets are under either CC Attribution license or CC0.1.0 Universal license. The detailed information is included in the game.
