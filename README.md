@@ -1,6 +1,6 @@
 # World of English :dragon:
 
-World of English is an educational game that was made to help students study English. The game was developed with Unreal Engine 4 by Aleksandr Molchagin as a [Final High School project](https://github.com/AleksandrMolchagin/world-of-english/blob/main/final_project) at Borisoglebskaya Gymnasium №1. 
+World of English is an educational game that was made to help students study English. The game was developed with Unreal Engine 4 by Aleksandr Molchagin as a [Final High School project](https://github.com/AleksandrMolchagin/world-of-english/blob/main/final_project) at Borisoglebskaya Gymnasium №1.
 
 :grey_exclamation: The game is available **only for Windows**.
 
@@ -27,7 +27,7 @@ World of English is an educational game that was made to help students study Eng
 
 ## How to use project files:
 
-1) Install Unreal Engine 4. 
+1) Install Unreal Engine 4.
 
 2) Download the [**<code>src.rar</code>**](https://drive.google.com/file/d/1b4k4vAvDAxS3wAizme2zbAq3Q0NUeZrV/view?usp=sharing) archive.
 
@@ -43,7 +43,7 @@ You may explore and modify the project, but do not publish your version of the g
 - Blender
 - Audacity
 
-## Authors:
+## Author:
 - Aleksandr Molchagin
 
 ## License
