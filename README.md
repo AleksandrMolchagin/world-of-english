@@ -1,10 +1,13 @@
 # World of English :dragon:
 
-World of English is an educational game that was made to help students study English. The game was developed with Unreal Engine 4 by Aleksandr Molchagin as a [Final High School project](https://github.com/AleksandrMolchagin/world-of-english/blob/main/final_project) ) at Borisoglebskaya Gymnasium №1. 
+World of English is an educational game that was made to help students study English. The game was developed with Unreal Engine 4 by Aleksandr Molchagin as a [Final High School project](https://github.com/AleksandrMolchagin/world-of-english/blob/main/final_project) at Borisoglebskaya Gymnasium №1. 
 
 :grey_exclamation: The game is available **only for Windows**.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RRO0EtIS4dA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+[<center><img src="img/trailer.png" alt="World of English, trailer" width="625"></center>](https://youtu.be/RRO0EtIS4dA "World of English, trailer")
 
 ## How to play:
 
@@ -45,3 +48,6 @@ You may explore and modify the project, but do not publish your version of the g
 
 ## License
 Some game assets are under either CC Attribution license or CC0.1.0 Universal license. The detailed information is included in the game.
+
+
+<center><br><br><img src="img/1.png" alt="World of English, trailer" width="360"> <img src="img/2.png" alt="World of English, trailer" width="360"> <br> <img src="img/3.png" alt="World of English, trailer" width="360"> <img src="img/4.png" alt="World of English, trailer" width="360"></center>
