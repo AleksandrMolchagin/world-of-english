@@ -7,7 +7,7 @@ World of English is an educational game that was made to help students study Eng
 
 
 
-[<center><img src="img/trailer.png" alt="World of English, trailer" width="625"></center>](https://youtu.be/RRO0EtIS4dA "World of English, trailer")
+[<img src="img/trailer.png" alt="World of English, trailer" width="700">](https://youtu.be/RRO0EtIS4dA "World of English, trailer")
 
 ## How to play:
 
@@ -46,8 +46,8 @@ You may explore and modify the project, but do not publish your version of the g
 ## Author:
 - Aleksandr Molchagin
 
-## License
+## License:
 Some game assets are under either CC Attribution license or CC0.1.0 Universal license. The detailed information is included in the game.
 
-
-<center><br><br><img src="img/1.png" alt="World of English, trailer" width="360"> <img src="img/2.png" alt="World of English, trailer" width="360"> <br> <img src="img/3.png" alt="World of English, trailer" width="360"> <img src="img/4.png" alt="World of English, trailer" width="360"></center>
+## Screenshots:
+<img src="img/1.png" alt="World of English, trailer" width="700"> <br> <br> <img src="img/2.png" alt="World of English, trailer" width="700"> <br> <br> <img src="img/3.png" alt="World of English, trailer" width="700"> <br> <br> <img src="img/4.png" alt="World of English, trailer" width="700">
